@@ -3,7 +3,7 @@ This respository contains trained models and related files for the Arthropod Tax
 ![Arthropod detection pipeline](ArTaxOr.png)
 
 ## Trained models
-Model name | ArTaxOr revision | Average Precision (0.5 IoU) | Comment
+Model name | Trained with | Average Precision (0.5 IoU) | Comment
 ------------ | ------------- | ------------- | -------------
-TensorFlow/AutoML | 1.0.0 | 0.773 | Training stopped after 20h
+TensorFlow/AutoML | ArTaxOr 1.0.0 | 0.773 | Training stopped after 20h
 
